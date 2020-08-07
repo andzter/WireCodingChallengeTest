@@ -9,7 +9,7 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         [TestMethod]
-        public void WriteToFileTest1()
+        public void WriteOutputTest()
         {
 
             var words = "test";
